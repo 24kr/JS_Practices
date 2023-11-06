@@ -1,0 +1,44 @@
+.menu
+{
+    text-align: center;
+    font-style: inherit;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+
+}
+ul, li
+{
+    text-decoration: none;
+    text-align: center;
+    list-style-type: none;
+    list-style-position: outside;
+    display: flex;
+    margin-top: 0%;
+    align-items: center;
+    margin-left: 18%;
+}
+button,a
+{
+background-color: rgb(13, 179, 179);
+text-decoration: none;
+border-radius: 10%;
+color: black;
+font-size: 1em;
+align-items: center;
+
+}
+.content
+{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button a:hover
+{
+    font-size: 1.1em;
+
+}
+
+.btn
+{
+    
+}
